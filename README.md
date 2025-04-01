@@ -59,11 +59,11 @@ The project is organized into multiple sections for easy navigation and learning
 ## 🚀 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/Java.git
+   git clone https://github.com/yourusername/Java-Learnings.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Java
+   cd Java-Learnings
    ```
 3. Explore individual modules and run the Java programs:
    ```sh
