@@ -4,7 +4,6 @@
 The Java Learnings project is a comprehensive collection of Java-related modules covering various topics, from core fundamentals to advanced frameworks. This repository serves as an excellent resource for learning and mastering Java programming concepts through hands-on examples and structured learning paths.
 
 Key topics covered:
-
 - Core Java Concepts: Classes, objects, methods, control structures, and error handling.
 - Advanced Features: Generics, lambdas, and stream API for functional programming.
 - Database Connectivity: JDBC and JPA for interacting with relational databases.
